@@ -97,7 +97,7 @@
         <license-maven-plugin.version>2.0</license-maven-plugin.version>
         
         <!-- Quartz version -->
-        <quartz.version>2.3.0</quartz.version>
+        <quartz.version>2.3.2</quartz.version>
         <quartzSecond.version>2.1.7</quartzSecond.version>
         <c3p0.version>0.9.1.2</c3p0.version>
         <!-- Sonar Exclusion -->
