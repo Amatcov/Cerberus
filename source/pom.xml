@@ -47,7 +47,7 @@
         <jackson-core-asl.version>1.7.1</jackson-core-asl.version>
         <jackson-mapper-asl.version>1.7.1</jackson-mapper-asl.version>
         <!-- Groovy Version -->
-        <groovy.version>2.4.7</groovy.version>
+        <groovy.version>2.4.21</groovy.version>
         <groovy-sandbox.version>1.10</groovy-sandbox.version>
         <!-- Appium/Selenium scope Version -->
         <appium.version>7.2.0</appium.version>
