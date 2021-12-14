@@ -54,7 +54,7 @@
         <selenium.version>3.141.59</selenium.version>
         <jna.version>4.1.0</jna.version>
         <!-- Log4J Version -->
-        <log4j.version>2.9.1</log4j.version>
+        <log4j.version>2.16.0</log4j.version>
         <!-- jsonpath -->
         <jsonxpath.version>2.4.0</jsonxpath.version>
         <!-- Compile scope -->
